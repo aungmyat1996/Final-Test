@@ -1,0 +1,6 @@
+{
+    "connection_string": "udp:192.168.91.140:14550",
+    "model_path": "yolov8n.pt",
+    "takeoff_altitude": 10,
+    "hover_timeout": 5
+}
